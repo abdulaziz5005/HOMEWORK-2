@@ -11,6 +11,9 @@ int main() {
 
     cout << "PROBLEM 1\n";
     int num1, num2;
+
+
+
     cout << " enter the first  the number" ;
     cin >> num1 ;
     cout <<  " enter the second the number" ;
